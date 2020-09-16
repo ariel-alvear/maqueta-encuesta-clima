@@ -8,9 +8,10 @@ nav {
   border-bottom: 2px;
   border-style: solid;
   border-width: thin;
+  position: fixed;
 }
 
-.firstquestion {
+.question {
   margin-left: 100px;
   margin-top: 50px;
   height: 250px;
