@@ -11,14 +11,23 @@ nav {
 }
 
 .firstquestion {
-  margin-left: 150px;
+  margin-left: 100px;
   margin-top: 50px;
   height: 250px;
-  width: 900px;
+  width: 1000px;
   border-style: solid;
   border-width: thin;
 }
 
 h2 {
-  
+  padding-top: 40px;
+  padding-left: 30px;
+}
+
+.answerscontainer button {
+  width: 175px;
+  height: 75px;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 18px;
 }
