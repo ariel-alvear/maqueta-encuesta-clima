@@ -2,13 +2,26 @@ body {
   font-family: 'Kumbh Sans', sans-serif;
 }
 
-nav {
+header {
+  height: 180px;
+  width: 1280px;
+}
+
+.navbar {
   height: 200px;
   color: #000000;
   border-bottom: 2px;
   border-style: solid;
   border-width: thin;
   position: fixed;
+  background-color: #ffffff;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.firstquestion {
+  margin-top: 400px;
+
 }
 
 .question {
