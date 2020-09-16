@@ -1,0 +1,24 @@
+body {
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+nav {
+  height: 200px;
+  color: #000000;
+  border-bottom: 2px;
+  border-style: solid;
+  border-width: thin;
+}
+
+.firstquestion {
+  margin-left: 150px;
+  margin-top: 50px;
+  height: 250px;
+  width: 900px;
+  border-style: solid;
+  border-width: thin;
+}
+
+h2 {
+  
+}
