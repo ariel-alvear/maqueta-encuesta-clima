@@ -1,9 +1,8 @@
 $(function(){
 
-  $("a").click(function(event) {
+  $("button").click(function(event) {
+
     alert(this.hash)
-
-
 
   });
 
